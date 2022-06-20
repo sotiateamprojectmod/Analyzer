@@ -1,0 +1,21 @@
+2021-08-30 16:52:46.712|single-core-executor|E|DO|[net.soti.mobicontrol.bc.k] Compressing failed. File [/data/user/0/net.soti.mobicontrol.androidwork/app_tmp/sys_traces.txt] doesn't exist|
+2021-08-30 16:52:46.877|single-core-executor|E|DO|[net.soti.mobicontrol.bc.a.u] Unable to clean up file /data/user/0/net.soti.mobicontrol.androidwork/app_tmp/sys_traces.txt|
+2021-08-27 20:00:08,110 (0x00000d3c) [DEBUG] CAlertMgr::RaiseRuleAlert - Raising Rule Alert 303 GOT DEVICE
+2021-08-27 20:00:08,110 (0x00000d3c) [DEBUG] HEALTH ATTESTATION Alert rule not found for event 303
+2021-08-27 20:00:08,110 (0x00000d3c) [DEBUG] Raised rule alert.
+2021-08-27 20:00:08,125 (0x0000146c) [DEBUG] < 92> Comm.Client.49253 [f375db664e6b0501eb2eb5801093f15d]: Received message: "CommInfoMsg":{"Name":"","InfoType":"SetErrorCode","SourceMessageType":28,"EnablePulse":false,},"Message":{"TimeStamp":"8/27/2021 8:00:08 PM",}
+2021-08-27 20:00:08,125 (0x00000f48) [DEBUG] SyncDownloadFiles: (f375db664e6b0501eb2eb5801093f15d) Download "C:\MobiControl\Skyllful versions\VCBSimulator_1.0.21484-release-deanfoodsprod.apk" to "/sdcard/skyllful"
+2021-08-27 20:00:08,125 (0x00000f48) [DEBUG] [117] Comm.Client.49253 [f375db664e6b0501eb2eb5801093f15d]: Send message: "FileInfoMsg":{"FileName":"/sdcard/skyllful\VCBSimulator_1.0.21484-release-deanfoodsprod.apk","FileSize":1527310338,"FreeDiskSpace":0,},"Message":{"TimeStamp":"8/27/2021 8:00:08 PM",}
+2021-08-27 20:00:08,125 (0x00001238) [DEBUG] ### [CCommDeploymentSrvWorker::OnDeviceInfoMsg]: Device[f375db664e6b0501afe31caaa0eaea45] replace context Device with local variable.
+2021-08-27 20:00:08,125 (0x00001238) [DEBUG] [212] Comm.Client.49262 [f375db664e6b0501afe31caaa0eaea45]: OnDeviceInfo: Device f375db664e6b0501afe31caaa0eaea45 connected
+2021-08-27 20:00:08,125 (0x00000d3c) [DEBUG] RaiseAlert method has been called. Event ID: 300, ExtraInfo: , DeviceId: f375db664e6b0501afe31caaa0eaea45
+2021-08-27 20:00:08,125 (0x00000418) [DEBUG] [ 12] ScheduleCache: Device [f375db664e6b0501afe31caaa0eaea45] online: True
+2021-08-27 20:00:08,125 (0x00000418) [DEBUG] ScheduleCache:CDBScheduleEntry::PERIODICALLY setting schedule items with schedule period: 7200 seconds.
+2021-08-27 20:00:08,125 (0x00000418) [DEBUG] ScheduleCache: Device [f375db664e6b0501afe31caaa0eaea45] online status changed (schedule changed - 0 items removed, 0 items added).
+2021-08-27 20:00:08,125 (0x00000d3c) [DEBUG] Raised device alert.
+2021-08-27 20:00:08,141 (0x00001238) [DEBUG] [212] Comm.Client.49262 [f375db664e6b0501afe31caaa0eaea45]: OnDeviceInfo: Device f375db664e6b0501afe31caaa0eaea45 checked-in
+2021-08-27 20:00:08,141 (0x00000d3c) [DEBUG] RaiseAlert method has been called. Event ID: 270, ExtraInfo: , DeviceId: f375db664e6b0501afe31caaa0eaea45
+2021-08-27 20:00:08,141 (0x00001238) [DEBUG] [212] Comm.Client.1254 [MS]: Send message: "DeviceStatusMsg":{"DeviceId":"f375db664e6b0501afe31caaa0eaea45",},"Message":{"TimeStamp":"8/27/2021 8:00:08 PM",}
+2021-08-27 20:00:08,141 (0x00000d3c) [DEBUG] Raised device alert.
+2021-08-27 20:00:08,141 (0x00001238) [DEBUG] [CDBDevice::IsDeviceCompatible] Agent version 14.55.1023 compatibility is 1.
+2021-08-27 20:00:08,141 (0x0000146c) [DEBUG] < 92> Comm.Client.49259 [f375db664e6b050188ac0b5d1081cf89]: Received message: 
